@@ -36,4 +36,25 @@ app.Lifetime.ApplicationStarted.Register(() =>
     });
 });
 
+DateTime lastPing = DateTime.UtcNow;
+app.MapGet("/api/ping", () =>
+{
+    lastPing = DateTime.UtcNow;
+    return Results.Ok();
+});
+
+int delay = 5000;
+_ = Task.Run(async () =>
+{
+    while (true)
+    {
+        await Task.Delay(delay);
+        if (DateTime.UtcNow - lastPing > TimeSpan.FromSeconds(10))
+        {
+            app.Lifetime.StopApplication();
+            break;
+        }
+    }
+});
+
 app.Run();

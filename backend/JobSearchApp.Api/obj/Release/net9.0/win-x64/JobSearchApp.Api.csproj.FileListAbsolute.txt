@@ -340,8 +340,6 @@ C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\JobSearchApp.Api.AssemblyInfoInputs.cache
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\JobSearchApp.Api.AssemblyInfo.cs
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\JobSearchApp.Api.csproj.CoreCompileInputs.cache
-C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\JobSearchApp.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\JobSearchApp.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\rjimswa.dswa.cache.json
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\rjsmrazor.dswa.cache.json
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\rjsmcshtml.dswa.cache.json
@@ -363,3 +361,4 @@ C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\JobSearchApp.Api.pdb
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\JobSearchApp.Api.genruntimeconfig.cache
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\ref\JobSearchApp.Api.dll
+C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Release\net9.0\win-x64\JobSearchApp.Api.sourcelink.json

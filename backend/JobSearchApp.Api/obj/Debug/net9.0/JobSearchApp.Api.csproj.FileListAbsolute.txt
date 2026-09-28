@@ -14,8 +14,6 @@ C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\JobSearchA
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\JobSearchApp.Api.AssemblyInfoInputs.cache
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\JobSearchApp.Api.AssemblyInfo.cs
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\JobSearchApp.Api.csproj.CoreCompileInputs.cache
-C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\JobSearchApp.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\JobSearchApp.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -38,3 +36,4 @@ C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\compressed
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\compressed\cb1771ipzs-fe9jco0cb8.gz
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\compressed\nfi9eubqnq-180dmtdpho.gz
 C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\compressed\s6olmr6m59-g3h7a9wx5y.gz
+C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\obj\Debug\net9.0\JobSearchApp.Api.sourcelink.json

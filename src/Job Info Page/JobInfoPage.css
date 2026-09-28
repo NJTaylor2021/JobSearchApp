@@ -1,0 +1,78 @@
+.jobinfo-page-wrapper
+{
+    background-color: darkslateblue;
+    overflow: hidden;
+    display: flex;
+    min-height: 100vh;
+}
+
+.jobinfo-svg-wrapper
+{
+    display: flex;
+    align-self: flex-start;
+    align-items: flex-start;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#jobinfo-usMap
+{
+    width: 500px;
+    height: auto;
+    border: 3px solid black;
+}
+
+.jobinfo-state 
+{
+    fill: #ccc;
+    stroke: white;
+    stroke-width: 1;
+    cursor: pointer;
+    transition: transform 0.15s ease, fill 0.15s ease;
+    transform-box: fill-box;
+    transform-origin: center;
+}
+
+.state.selected 
+{
+    fill: #4a90d9;
+    transform: scale(1.1);
+}
+
+.input-controls-wrapper
+{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.jobInfo-button-wrapper
+{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+input
+{
+    width: 200px;
+    height: 50px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+select
+{
+    width: 200px;
+    height: 50px;
+}
+
+button
+{
+    width: 200px;
+    height: 50px;
+}

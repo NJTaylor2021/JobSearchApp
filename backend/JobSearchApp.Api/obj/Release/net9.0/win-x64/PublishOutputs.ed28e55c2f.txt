@@ -1,0 +1,5 @@
+C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\bin\Release\net9.0\win-x64\publish\appsettings.Development.json
+C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\bin\Release\net9.0\win-x64\publish\appsettings.json
+C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\bin\Release\net9.0\win-x64\publish\JobSearchApp.Api.pdb
+C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\bin\Release\net9.0\win-x64\publish\aspnetcorev2_inprocess.dll
+C:\Users\njtay\JobSearchApp\backend\JobSearchApp.Api\bin\Release\net9.0\win-x64\publish\JobSearchApp.Api.exe
